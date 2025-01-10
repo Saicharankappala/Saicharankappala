@@ -95,6 +95,7 @@ I'm a passionate Software Engineer with a Master's degree in Information Systems
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/sai-charan-kappala)  
 - [Email](mailto:kappalasaicharan22@gmail.com)
+- 📱 **Phone:** +1 (657) 378-8522
   
 <p>If you like what you see, why not meet up with me? The coffee or tea is on me! 🥺</p>
 <a href="https://www.buymeacoffee.com/your_username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
