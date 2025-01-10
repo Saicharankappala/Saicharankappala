@@ -96,5 +96,5 @@ I'm a passionate Software Engineer with a Master's degree in Information Systems
 - [LinkedIn](https://linkedin.com/in/sai-charan-kappala)  
 - [Email](mailto:kappalasaicharan22@gmail.com)
   
-<p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
+<p>If you like what you see, why not meet up with me? The coffee or tea is on me! 🥺</p>
 <a href="https://www.buymeacoffee.com/your_username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
